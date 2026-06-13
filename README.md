@@ -20,10 +20,10 @@ These four files are designed to be deployed as static pages. Choose one of:
 3. Go to repository Settings → Pages
 4. Set Source to "Deploy from a branch" → `main` branch → `/` (root)
 5. After a few minutes, the pages will be available at:
-   - `https://<username>.github.io/plucknote-legal/privacy.html`
-   - `https://<username>.github.io/plucknote-legal/privacy-zh.html`
-   - `https://<username>.github.io/plucknote-legal/terms.html`
-   - `https://<username>.github.io/plucknote-legal/terms-zh.html`
+   - `https://chixiang.github.io/plucknote-legal/privacy.html`
+   - `https://chixiang.github.io/plucknote-legal/privacy-zh.html`
+   - `https://chixiang.github.io/plucknote-legal/terms.html`
+   - `https://chixiang.github.io/plucknote-legal/terms-zh.html`
 
 ### Option B: Cloudflare Pages
 
